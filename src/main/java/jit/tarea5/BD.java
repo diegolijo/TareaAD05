@@ -47,6 +47,10 @@ public class BD {
             return null;
         }
     }
+    
+    public static void prueba(){
+        
+    }
 
     public static void crearTablas() {
 
