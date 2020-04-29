@@ -1,4 +1,4 @@
-package jit.tarea5;
+package Objetos;
 
 public class Archivo {
 

@@ -1,18 +1,20 @@
-package jit.tarea5;
+package Objetos;
 
 public class Directorio {
 
     private int id;
     private String nombre;
+    
+    public Directorio() {
+    }
+
 
     public Directorio(int id, String nombre) {
         this.id = id;
         this.nombre = nombre;
     }
 
-    public Directorio() {
-    }
-
+ 
     public int getId() {
         return id;
     }
